@@ -17,5 +17,8 @@ in the [ep-0001](../ep-0001.md) document.
 | [ep-lh-0009](ep-lh-0009.md) | linterhub: lhman               | This EP describes the functionality of dependency manager of the catalog |
 | [ep-lh-0010](ep-lh-0010.md) | linterhub: maintenance process | This EP describes how to maintain the catalog in actual state |
 | [ep-lh-0011](ep-lh-0011.md) | linterhub: programming languages | |
-| [ep-lh-0012](ep-lh-0012.md) | linterhub: software licenses | |
-| [ep-lh-0013](ep-lh-0013.md) | linterhub: package managers | |
+| [ep-lh-0012](ep-lh-0012.md) | linterhub: software licenses   | |
+| [ep-lh-0013](ep-lh-0013.md) | linterhub: package managers    | |
+| [ep-lh-0014](ep-lh-0014.md) | linterhub: lhexec              | This EP describes the functionality of engine executor |
+| [ep-lh-0015](ep-lh-0015.md) | linterhub: lhconfig            | This EP describes the functionality of config manager of the linterhub |
+| [ep-lh-0016](ep-lh-0016.md) | linterhub: wrappers            | This EP describes structure of linterhub core wrappers |
