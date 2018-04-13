@@ -4,6 +4,7 @@ This directory holds Enhancement Proposals for [linterhub](https://github.com/re
 in the [ep-0001](../ep-0001.md) document.
 
 ## Index
+
 |       Filename              |       Title                    |                    Description                         |
 |-----------------------------|--------------------------------|--------------------------------------------------------|
 | [ep-lh-0001](ep-lh-0001.md) | linterhub                      | This EP describes linterhub as a central place for engines |
@@ -16,9 +17,9 @@ in the [ep-0001](../ep-0001.md) document.
 | [ep-lh-0008](ep-lh-0008.md) | linterhub: web ui              | This EP describes the functionality of web ui for the catalog |
 | [ep-lh-0009](ep-lh-0009.md) | linterhub: lhman               | This EP describes the functionality of dependency manager of the catalog |
 | [ep-lh-0010](ep-lh-0010.md) | linterhub: maintenance process | This EP describes how to maintain the catalog in actual state |
-| [ep-lh-0011](ep-lh-0011.md) | linterhub: programming languages | |
-| [ep-lh-0012](ep-lh-0012.md) | linterhub: software licenses   | |
-| [ep-lh-0013](ep-lh-0013.md) | linterhub: package managers    | |
+| [ep-lh-0011](ep-lh-0011.md) | linterhub: programming languages | This EP describes how to get the list of the supported linters' languages and their extensions |
+| [ep-lh-0012](ep-lh-0012.md) | linterhub: software licenses   | This EP describes how to get the list of the supported linters' licenses |
+| [ep-lh-0013](ep-lh-0013.md) | linterhub: package managers    | This EP describes how to use engine with its package managers |
 | [ep-lh-0014](ep-lh-0014.md) | linterhub: lhexec              | This EP describes the functionality of engine executor |
 | [ep-lh-0015](ep-lh-0015.md) | linterhub: lhconfig            | This EP describes the functionality of config manager of the linterhub |
 | [ep-lh-0016](ep-lh-0016.md) | linterhub: wrappers            | This EP describes structure of linterhub core wrappers |
