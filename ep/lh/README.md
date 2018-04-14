@@ -23,3 +23,4 @@ in the [ep-0001](../ep-0001.md) document.
 | [ep-lh-0015](ep-lh-0015.md) | linterhub: lhconfig            | This EP describes the functionality of config manager of the linterhub |
 | [ep-lh-0016](ep-lh-0016.md) | linterhub: wrappers            | This EP describes structure of linterhub core wrappers |
 | [ep-lh-0017](ep-lh-0017.md) | linterhub: core component      | This EP describes abstract linterhub core component |
+| [ep-lh-0018](ep-lh-0018.md) | linterhub: engine output     | This EP describes the structure of engine output. |
