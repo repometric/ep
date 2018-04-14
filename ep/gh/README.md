@@ -6,4 +6,5 @@ This directory holds Enhancement Proposals for all projects that use GIT and hos
 |       Filename              |       Title                    |                    Description                         |
 |-----------------------------|--------------------------------|--------------------------------------------------------|
 | [ep-gh-0001](ep-gh-0001.md) | git & github basics            | The list of usefull resources and guidelines           |
+| [ep-gh-0002](ep-gh-0002.md) | Repository folder structure    | This EP defines the generic folder structure on Github |
 
