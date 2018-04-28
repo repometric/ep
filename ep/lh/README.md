@@ -25,7 +25,7 @@ in the [ep-0001](../ep-0001.md) document.
 | [ep-lh-0016](ep-lh-0016.md) | linterhub: wrappers              | This EP describes structure of linterhub core wrappers |
 | [ep-lh-0017](ep-lh-0017.md) | linterhub: core component        | This EP describes abstract linterhub core component |
 | [ep-lh-0018](ep-lh-0018.md) | linterhub: engine output         | This EP describes the structure of engine output |
-| [ep-lh-0019](ep-lh-0019.md) | -                                | - |
+| [ep-lh-0019](ep-lh-0019.md) | linterhub: configuration file    | This EP describes the configuration file |
 | [ep-lh-0020](ep-lh-0020.md) | linterhub: extra engine data     | This EP defines a schema of extra engine data |
 | [ep-lh-0021](ep-lh-0021.md) | linterhub: reporter file         | This EP describes reporter file |
 
